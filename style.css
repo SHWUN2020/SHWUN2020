@@ -135,6 +135,11 @@ body {
     font-family: "kalame-bold";
 }
 
+.Intro h2{
+    color: #fff;
+    font-family: "kalame-extra-light";
+}
+
 .Intro h3 {
     color: #EA2264;
     font-size: 40px;
