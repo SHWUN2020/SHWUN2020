@@ -108,18 +108,19 @@ body {
     margin: 20px auto;
     border: 1px solid #EA2264;
 }
-#mobile-display {
-        width: 100%;
-        height: 100%;
-        position: fixed;
-        display: none;
-        padding-top: 200px;
-        z-index: 1;
-        background: rgba(0, 0, 0, 0.9);
-        transition: all 0.5s;
-    }
 
-#menu-buttom{
+#mobile-display {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    display: none;
+    padding-top: 200px;
+    z-index: 1;
+    background: rgba(0, 0, 0, 0.9);
+    transition: all 0.5s;
+}
+
+#menu-buttom {
     display: none;
 }
 
@@ -150,7 +151,7 @@ body {
     font-family: "kalame-bold";
 }
 
-.Intro h2{
+.Intro h2 {
     color: #fff;
     font-family: "kalame-extra-light";
 }
@@ -259,25 +260,30 @@ body {
     font-family: "inter-medium";
     line-height: 55px;
 }
-.skills nav{
+
+.skills nav {
     max-width: 60%;
     margin: 10px auto;
     display: grid;
     grid-template-columns: auto auto;
 }
-.skills h1{
+
+.skills h1 {
     color: #fff;
     margin-bottom: 10px;
 }
-#title{
+
+#title {
     width: 60%;
     margin: 40px auto;
 }
-#title h4{
+
+#title h4 {
     color: #73ff00;
     margin-left: 20px;
 }
-#Learn2{
+
+#Learn2 {
     width: 15px;
     height: 15px;
     background: #73ff00;
@@ -285,29 +291,38 @@ body {
     margin-top: 3px;
     position: absolute;
 }
-.skills li{
+
+.skills li {
     margin-top: 20px;
 }
-.skills nav a{
+
+.skills nav a {
     display: grid;
     grid-template-columns: 100px 100px;
 }
-.skills nav img{
+
+.skills nav img {
     width: 60px;
-    
+
 }
 
-.skills nav ul li div{
+.skills nav ul li div {
     width: 60%;
     height: auto;
     margin: auto;
     display: grid;
     grid-template-columns: auto auto auto auto auto;
 }
+
 .skills a:hover {
     box-shadow: 0 0 10vh #EA2264;
 }
-#learn{
+
+#res {
+    display: none;
+}
+
+#learn {
     width: 15px;
     height: 15px;
     background: #73ff00;
@@ -318,7 +333,7 @@ body {
     margin-left: 45px;
 }
 
-#Box{
+#Box {
     background: #EA2264;
     border: 2px solid #EA2264;
     width: 25px;
@@ -327,7 +342,8 @@ body {
     transform: rotate(45deg);
     margin: auto 10px;
 }
-#Box2{
+
+#Box2 {
     background: #000;
     border: 2px solid #EA2264;
     width: 25px;
