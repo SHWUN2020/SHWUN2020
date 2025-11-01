@@ -75,6 +75,7 @@ body {
 .Nav_bar {
     width: auto;
     padding: 44px;
+    z-index: 5;
 }
 
 .Nav_bar nav {
@@ -106,6 +107,20 @@ body {
     height: 0;
     margin: 20px auto;
     border: 1px solid #EA2264;
+}
+#mobile-display {
+        width: 100%;
+        height: 100%;
+        position: fixed;
+        display: none;
+        padding-top: 200px;
+        z-index: 1;
+        background: rgba(0, 0, 0, 0.9);
+        transition: all 0.5s;
+    }
+
+#menu-buttom{
+    display: none;
 }
 
 .Intro {

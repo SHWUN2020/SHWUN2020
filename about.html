@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="styles/view-port.css">
 <link rel="icon" href="Image/Logo/Red_Old.png">
 
 <head>
@@ -10,14 +11,20 @@
 </head>
 
 <body>
+    <div id="mobile-display">
+        <li onclick="menu_list()"><img src="Image/Icons/back-arrow.png" width="50" alt=""></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="">Contact</a></li>
+    </div>
     <header>
         <div class="Nav_bar">
             <nav>
                 <ul>
                     <li><a href="index.html" id="Home">SHWUN ©2025</a></li>
                     <hr>
-                    <li><a href="">About</a></li>
-                    <li><a href="">Contact</a></li>
+                    <li id="menu"><a href="">About</a></li>
+                    <li id="menu"><a href="">Contact</a></li>
+                    <li id="menu-buttom" onclick="menu_list()"><img src="Image/Icons/menu.png" width="20" alt=""></li>
                 </ul>
             </nav>
         </div>
@@ -35,7 +42,7 @@
         <hr>
         <div class="paragraph">
             <p>Welcome to my website. <br>
-                I’m Shahin, the founder of my personal brand “SHWUN”, working in graphic design, programming, and
+                I'm Shahin, the founder of my personal brand “SHWUN”, working in graphic design, programming, and
                 networking. <br>
                 This website is designed to showcase my resume, portfolio, and to facilitate professional connections.
                 <br>
@@ -97,6 +104,7 @@
                             </div>
                         </a></li>
                 </ul>
+                <hr>
                 <ul>
                     <li><a href=""><img src="Image/Icons/html-5-logo.png" alt="">
                             <div id="s6">
