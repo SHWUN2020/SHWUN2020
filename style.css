@@ -197,6 +197,7 @@ body {
     background: #EA2264;
     border: 2px solid #EA2264;
     box-shadow: 0 0 50vh #EA2264;
+    margin: auto 50px;
 }
 
 .Intro2 h4 {
@@ -291,7 +292,6 @@ body {
     margin-top: 3px;
     position: absolute;
 }
-
 .skills li {
     margin-top: 20px;
 }

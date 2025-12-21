@@ -10,3 +10,5 @@ function menu_list(){
         memoryMenu = true;
     }
 }
+
+
