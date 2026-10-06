@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:2563eb&height=250&section=header&text=SHAHIN%20FARAJI&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%7C%20JavaScript%20%7C%20Node.js&descAlignY=55&descSize=18&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,prisma,mysql,git,docker" />
+</p>
 # Hi, I'm Shahin Faraji 👋
 
 ### Backend Developer | JavaScript Developer
