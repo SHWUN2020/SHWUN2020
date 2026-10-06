@@ -109,7 +109,7 @@ If you're interested in software development, backend engineering, or building i
 
 ### 🔵 Social
 
-<a href="www.linkedin.com/in/shwun20">Linkedin</a>
-<a href="https://discord.gg/egcWdV5nVN">Discord Server</a>
-<a href="https://www.instagram.com/shwun.official?stkn=MWVwMWpzN3BnZGN6aQ==">Instagram</a>
+<a href="www.linkedin.com/in/shwun20">Linkedin</a><br>
+<a href="https://discord.gg/egcWdV5nVN">Discord Server</a><br>
+<a href="https://www.instagram.com/shwun.official?stkn=MWVwMWpzN3BnZGN6aQ==">Instagram</a><br>
 <a href="https://t.me/shwundot">Telegram Channel</a>
